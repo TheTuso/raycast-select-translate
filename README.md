@@ -8,10 +8,6 @@ Quickly translate selected text from any application using Raycast Translator.
 - Automatically open Raycast Translator with the selected text pre-filled
 - Works with any text selection system-wide
 
-## Requirements
-
-- [Raycast Translator](https://www.raycast.com/raycast/translator) extension must be installed and enabled
-
 ## Usage
 
 1. Select any text in any application
